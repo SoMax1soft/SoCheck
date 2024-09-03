@@ -1,0 +1,41 @@
+# SoCheck v1.5 (@max1soft)
+ban_message: Выход с проверки (Автоматическое наказание)
+usage_message: '&fИспользуйте: &6/check setmydiscord &7(Ваш дискорд)&7 - Установить дискорд для проверки'
+usage_confirm: '&fИспользуйте: &6/check &7(Ник)&f &6confirm&7 - Признать игрока читером'
+set_discord_usage: '&fИспользуйте: &6/check setmydiscord &7(Ваш дискорд)&7 - Установить дискорд для проверки'
+discord_set: '&fВаш &6дискорд &fустановлен на &a'
+no_discord: '&fУ вас &6нет установленного дискорда&f. Используйте &6/check setmydiscord
+  &7<Ваш дискорд>.'
+check_message: '&f&lВас &a&l§x§F§F§8§6§0§0§l§nв§x§F§F§8§F§0§0§l§nы§x§F§F§9§8§0§0§l§nз§x§F§F§A§2§0§0§l§nв§x§F§F§A§B§0§0§l§nа§x§F§F§B§4§0§0§l§nл§x§F§F§B§D§0§0§l§nи §x§F§F§D§0§0§0§l§nн§x§F§F§D§9§0§0§l§nа §x§F§F§C§7§0§0§l§nп§x§F§F§B§D§0§0§l§nр§x§F§F§B§4§0§0§l§nо§x§F§F§A§B§0§0§l§nв§x§F§F§A§2§0§0§l§nе§x§F§F§9§8§0§0§l§nр§x§F§F§8§F§0§0§l§nк§x§F§F§8§6§0§0§l§nу&f'
+
+admin_name: '&fАдминистратор: §x§F§F§8§6§0§0'
+admin_discord: '&fЕго дискорд: §x§F§F§8§6§0§0'
+admin_time: '&fУ вас есть §x§F§F§8§6§0§03 §x§F§F§B§D§0§0м§x§F§F§D§9§0§0и§x§F§F§C§4§0§0н§x§F§F§B§0§0§0у§x§F§F§9§B§0§0т§x§F§F§8§6§0§0ы§f чтоб &a§x§F§F§8§6§0§0о§x§F§F§9§2§0§0т§x§F§F§9§E§0§0п§x§F§F§A§A§0§0р§x§F§F§B§5§0§0а§x§F§F§C§1§0§0в§x§F§F§C§D§0§0и§x§F§F§D§9§0§0т§x§F§F§C§F§0§0ь §x§F§F§B§A§0§0з§x§F§F§B§0§0§0а§x§F§F§A§5§0§0п§x§F§F§9§B§0§0р§x§F§F§9§0§0§0о§x§F§F§8§6§0§0с&f в друзья &a§x§F§F§8§6§0§0м§x§F§F§9§B§0§0о§x§F§F§B§0§0§0д§x§F§F§C§4§0§0е§x§F§F§D§9§0§0р§x§F§F§C§8§0§0а§x§F§F§B§8§0§0т§x§F§F§A§7§0§0о§x§F§F§9§7§0§0р§x§F§F§8§6§0§0у
+  в дискорд!'
+check_ended: '&fПроверка &6§x§F§F§8§6§0§0з§x§F§F§9§B§0§0а§x§F§F§B§0§0§0в§x§F§F§C§4§0§0е§x§F§F§D§9§0§0р§x§F§F§C§4§0§0ш§x§F§F§B§0§0§0е§x§F§F§9§B§0§0н§x§F§F§8§6§0§0а&f, доби &a§x§F§F§8§6§0§0с§x§F§F§A§2§0§0в§x§F§F§B§D§0§0о§x§F§F§D§9§0§0б§x§F§F§C§4§0§0о§x§F§F§B§0§0§0д§x§F§F§9§B§0§0е§x§F§F§8§6§0§0н.'
+check_title: '&fПроверка &c§x§F§F§8§6§0§0н§x§F§F§9§4§0§0а §x§F§F§B§0§0§0с§x§F§F§B§D§0§0т§x§F§F§C§B§0§0о§x§F§F§D§9§0§0р§x§F§F§C§D§0§0о§x§F§F§C§1§0§0н§x§F§F§B§5§0§0е§x§F§F§A§A§0§0е §x§F§F§9§2§0§0П§x§F§F§8§6§0§0О.'
+check_title_sub: '&7(Информации в чате)'
+check_end_title: '&fПроверка &a§x§F§F§8§6§0§0з§x§F§F§9§B§0§0а§x§F§F§B§0§0§0в§x§F§F§C§4§0§0е§x§F§F§D§9§0§0р§x§F§F§C§4§0§0ш§x§F§F§B§0§0§0е§x§F§F§9§B§0§0н§x§F§F§8§6§0§0а'
+
+
+check_started: '&fУспешно &6вызвали игрока &fна проверку!'
+not_checking: '&cДолбаеб?&f Игрок не на проверке.'
+player_not_found: '&cИгрок не найден.'
+no_permission: '&cУ вас нет прав.'
+already_checking: '&cИгрок уже на проверке.'
+only_players: '&cТолько игроки.'
+check_stopped: '&fУспешно &aосвободили&f игрока &6'
+self_check: '&cВы не можете вызвать самого себя на проверку.'
+invalid_command_usage: '&fИспользуйте: &6/check &7(Ник) (start|stop)&7 - Начать проверку'
+player_location_x: 6.6
+player_location_y: 4
+player_location_z: 9.5
+player_location_yaw: 90
+player_location_pitch: -2
+player_location_world: proverka
+admin_location_x: 11.5
+admin_location_y: 4
+admin_location_z: 9.5
+admin_location_yaw: -91
+admin_location_pitch: -1
+admin_location_world: proverka

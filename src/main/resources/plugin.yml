@@ -1,0 +1,13 @@
+name: SoCheck
+version: 1.0
+author: somax
+main: so.max1soft.check.Main
+description: Проверка читеров. (toolcube) by max1soft
+commands:
+  check:
+    description: Check a player
+    usage: /check (Ник) (start|stop) (Ваш ник) (Ваш дискорд)"
+permissions:
+  socheck.check:
+    description: Permission to use /check command
+    default: op
